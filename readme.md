@@ -4,9 +4,9 @@ This is the user interface (UI) for the multisig wallet written for the Dero Sta
 
 Binaries for Windows and Linux (both 64 bit) are located here:
 
-*Linux: [https://github.com/Lebowski1234/multisig-ui/raw/master/binaries/multisig-linux64.tar.gz](https://github.com/Lebowski1234/multisig-ui/raw/master/binaries/multisig-linux64.tar.gz)
+* Linux: [https://github.com/Lebowski1234/multisig-ui/raw/master/binaries/multisig-linux64.tar.gz](https://github.com/Lebowski1234/multisig-ui/raw/master/binaries/multisig-linux64.tar.gz)
 
-*Windows: [https://github.com/Lebowski1234/multisig-ui/raw/master/binaries/multisig-windows64.rar](https://github.com/Lebowski1234/multisig-ui/raw/master/binaries/multisig-windows64.rar)
+* Windows: [https://github.com/Lebowski1234/multisig-ui/raw/master/binaries/multisig-windows64.rar](https://github.com/Lebowski1234/multisig-ui/raw/master/binaries/multisig-windows64.rar)
 
 Or follow the instructions below to compile. 
 
