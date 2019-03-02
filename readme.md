@@ -4,9 +4,8 @@ This is the user interface (UI) for the multisig wallet written for the Dero Sta
 
 Binaries for Windows and Linux (both 64 bit) are located here:
 
-(links)
-
-Right click on 'raw' and then 'save link as' to download.  
+[https://github.com/Lebowski1234/multisig-ui/raw/master/binaries/multisig-linux64.tar.gz](https://github.com/Lebowski1234/multisig-ui/raw/master/binaries/multisig-linux64.tar.gz)
+[https://github.com/Lebowski1234/multisig-ui/raw/master/binaries/multisig-windows64.rar](https://github.com/Lebowski1234/multisig-ui/raw/master/binaries/multisig-windows64.rar)
 
 Or follow the instructions below to compile. 
 
@@ -50,7 +49,7 @@ To run the Dero Stargate wallet:
 ./dero-wallet-cli-linux-amd64 --rpc-server --wallet-file testnetwallet.db --testnet
 ```
 
-Finally, to run the multisig wallet user interface):
+Finally, to run the multisig wallet user interface:
 
 ```
 $ ./multisig
@@ -61,7 +60,7 @@ The instructions are the same for Windows, without the './'
 
 ## Usage
 
-Refer to the multisig wallet smart contract (link) readme for an explanation of how the wallet works. All options in the user interface are self explanatory and intuitive. After the smart contract has been deployed, run the user interface and choose from Options 1 to 10 (e.g. type '1' then enter):
+Refer to the multisig wallet smart contract [readme](https://github.com/lebowski1234/dero-multisig) for an explanation of how the wallet works. All options in the user interface are self explanatory and intuitive. After the smart contract has been deployed, run the user interface and choose from Options 1 to 10 (e.g. type '1' then enter):
 
 ### Option 1 - Enter Smart Contract ID (SCID)
 
