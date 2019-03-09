@@ -1,6 +1,6 @@
 # User Interface for Multi-Signature Wallet
 
-This is the user interface (UI) for the multisig wallet written for the Dero Stargate Smart Contract competition, located in this depository: [https://github.com/lebowski1234/dero-multisig](https://github.com/lebowski1234/dero-multisig). This document contains basic usage instructions.
+This is the user interface (UI) for the multisig wallet written for the Dero Stargate Smart Contract competition, located in this repository: [https://github.com/lebowski1234/dero-multisig](https://github.com/lebowski1234/dero-multisig). This document contains basic usage instructions.
 
 Binaries for Windows and Linux (both 64 bit) are located here:
 
@@ -102,5 +102,15 @@ Enter the index No. of a transaction to display recipient, value, sent / unsent 
 ### Option 10 - Exit
 
 Exit the user interface. 
+
+
+## Contact Details
+
+I plan to update the smart contract and user interface for the Dero main network, when smart contracts become live. To report a bug, please open an issue in github. 
+
+My contact details are: thedudelebowski1234@gmail.com
+
+Finally, if you found this useful, any Dero donations are most welcome! dERoSME4c5GNUvPo27NsRFeJPR1FKiYt87g8Gknbm6JU9eL3xRPDs6JijHuVNxVzyFZXg1wxjbh52Hu9gUfWd3Lx5QRNTXvJWZ
+
 
 
